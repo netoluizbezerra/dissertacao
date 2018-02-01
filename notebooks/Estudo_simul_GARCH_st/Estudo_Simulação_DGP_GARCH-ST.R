@@ -3,7 +3,7 @@
 ####################
 rm(list=ls())
 
-ndraws=540
+ndraws=500
 horizon.simul=2000
 alpha1=0.10
 beta1 =0.85
